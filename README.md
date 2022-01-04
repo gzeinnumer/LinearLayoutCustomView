@@ -38,6 +38,12 @@ public class LinearLayoutCustomView extends LinearLayout {
 }
 ```
 
+```xml
+<com.gzeinnumer.linearlayoutcustomview.LinearLayoutCustomView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+```
+
 ---
 
 ```
